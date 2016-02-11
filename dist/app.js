@@ -107,6 +107,18 @@
 	  });
 	};
 
+	window.goC = function () {
+	  __webpack_require__.e/* nsure */(3, function (require) {
+	    __webpack_require__(3);
+	  });
+	};
+
+	window.goD = function () {
+	  __webpack_require__.e/* nsure */(5, function (require) {
+	    __webpack_require__(4);
+	  });
+	};
+
 
 /***/ }
 /******/ ]);

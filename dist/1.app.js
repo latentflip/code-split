@@ -3,7 +3,7 @@ webpackJsonp([1],[
 /* 1 */
 /***/ function(module, exports) {
 
-	console.log('Load a');
+	console.log('Loaded a');
 
 	module.exports = 'This is a';
 

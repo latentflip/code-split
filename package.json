@@ -1,0 +1,17 @@
+{
+  "name": "code-split",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "webpack": "^1.12.13",
+    "webpack-dev-server": "^1.14.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "rm -rf dist/* && webpack && http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
